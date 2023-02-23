@@ -12,3 +12,12 @@ login page
 landing page
 
 ![index1](https://user-images.githubusercontent.com/51974901/210568777-e6819310-0faa-4796-a018-81229bf85b60.png)
+
+adding technician 
+![techz](https://user-images.githubusercontent.com/51974901/220901162-e4085b6e-90eb-40eb-8206-39144e61a6be.png)
+
+
+Link to user site : http://outagefibre.epizy.com/
+link to admin or tech: http://outagefibre.epizy.com/login.php
+Admin username: tmolaoa966@gmail.com
+Pass: Test1234.
