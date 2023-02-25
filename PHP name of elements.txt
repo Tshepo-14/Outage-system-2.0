@@ -1,0 +1,8 @@
+Register Tech php form registertech.php
+tech ID name=techid
+email address name="email"
+password name="password"
+
+login page
+email name="user"
+password name="pass"
