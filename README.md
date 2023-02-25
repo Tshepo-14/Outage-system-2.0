@@ -21,3 +21,7 @@ Link to user site : http://outagefibre.epizy.com/
 link to admin or tech: http://outagefibre.epizy.com/login.php
 Admin username: tmolaoa966@gmail.com
 Pass: Test1234.
+
+Index page of user is equipted with a chat to us api that allows users and technicians to have a conversation regarding their problems
+![main](https://user-images.githubusercontent.com/51974901/221371244-633947b5-5c09-4113-8930-43d7e0ef7bde.png)
+
