@@ -102,18 +102,6 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`city`, `counts`) VALUES
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
-('Johannesburg', 1),
 ('Johannesburg', 1);
 
 
